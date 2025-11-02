@@ -4,3 +4,6 @@ core/__pycache__/planner.cpython-313.pyc
 core/__pycache__/scheduler.cpython-313.pyc
 core/__pycache__/storage.cpython-313.pyc
 ui/__pycache__/main_window.cpython-313.pyc
+dist
+/build
+StudyScheduler.spec
